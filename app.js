@@ -8,3 +8,4 @@ function isNarcissistic(n) {
   if (sum === n) return true;
   else return false;
 }
+module.exports = numChecker;
