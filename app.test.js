@@ -1,5 +1,5 @@
 const assert = require('assert');
-const numChecker = require('./numChecker');
+const isNarcissistic = require('./isNarcissistic');
 
 Test.describe("Basic tests",_=>{
 Test.assertEquals(isNarcissistic(153), true);
